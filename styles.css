@@ -103,8 +103,8 @@ header .profile-image:hover {
 }
 
 .images {
-  width: 150px;
-  height: 150px;
+  display: block;
+  width: 70%;
   border: 2px solid black;
   margin: auto;
 }
