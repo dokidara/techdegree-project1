@@ -1,4 +1,4 @@
-<!-- Code Ganked from: https://www.talater.com/open-source-templates/#/page/98 -->
+<!-- https://www.talater.com/open-source-templates/#/page/98 -->
 
 <!--- Provide a general summary of the bug in the Title above -->
 
