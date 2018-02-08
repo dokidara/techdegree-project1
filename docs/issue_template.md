@@ -1,8 +1,16 @@
->Fill this out
+<!-- Template ganked from: https://www.talater.com/open-source-templates/#/page/98 -->
 
+<!--- Provide a general summary of the issue in the Title above -->
 
->Fill this out
+## Detailed Description
+<!--- Provide a detailed description of the change or addition you are proposing -->
 
+## Context
+<!--- Why is this change important to you? How would you use it? -->
+<!--- How can it benefit other users? -->
 
+## Possible Implementation
+<!--- Not obligatory, but suggest an idea for implementing addition or change -->
 
->Fill this out
+## Screenshots
+<!--- Got visuals? Put 'em here. -->
