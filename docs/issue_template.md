@@ -1,4 +1,4 @@
-<!-- Template ganked from: https://www.talater.com/open-source-templates/#/page/98 -->
+<!-- https://www.talater.com/open-source-templates/#/page/98 -->
 
 <!--- Provide a general summary of the issue in the Title above -->
 
