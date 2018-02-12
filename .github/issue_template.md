@@ -1,16 +1,13 @@
-<!-- https://www.talater.com/open-source-templates/#/page/98 -->
-
-<!--- Provide a general summary of the issue in the Title above -->
+<!--- Provide a general summary of the issue in the title above -->
 
 ## Detailed Description
-<!--- Provide a detailed description of the change or addition you are proposing -->
+<!--- Provide a detailed description of the proposed change or addition -->
 
 ## Context
-<!--- Why is this change important to you? How would you use it? -->
-<!--- How can it benefit other users? -->
+<!--- Why is this change important? How would it be used? Who would use it? Is there quantitative business value? -->
 
 ## Possible Implementation
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+<!--- Suggest an idea for implementing the addition or change, provide a resource, etc. -->
 
 ## Screenshots
 <!--- Got visuals? Put 'em here. -->
